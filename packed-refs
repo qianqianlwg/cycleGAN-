@@ -1,4 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-b62183747c14b1242286037871e5621544e27fb1 refs/remotes/origin/dev
-9f8f61e5a375c2e01c5187d093ce9c2409f409b0 refs/remotes/origin/master
-3ca3b0d5eff0c96a309b978500cb7bba9c2be31e refs/remotes/origin/pytorch0.3.1
