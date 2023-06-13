@@ -37,7 +37,7 @@
 - CUDA11.1
 - GeForce GTX 3060 Laptop GPU
 
-参考[Cyclegan从零到一复现](https://blog.csdn.net/qianqianlwg/article/details/131163503 "使用Cyclegan实现图像风格转换")。
+详细步骤参考：[Cyclegan从零到一复现](https://blog.csdn.net/qianqianlwg/article/details/131163503 "使用Cyclegan实现图像风格转换")。
 
 ---
 # 配置步骤：
